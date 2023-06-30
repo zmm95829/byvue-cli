@@ -1,0 +1,24 @@
+{
+  "name": "byvue-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "zmm",
+    "email": "1239183642@qq.com"
+  },
+  "bin": {
+    "byvue": "bin/byvue"
+  },
+  "keywords": [
+    "byvue-cli",
+    "byvue"
+  ],
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "commander": "^11.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0",
+    "ora": "^5.1.0"
+  }
+}
