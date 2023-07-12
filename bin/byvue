@@ -14,7 +14,7 @@ program
   })
 
 program
-  .command('init')
+  .command('init <模板名称> [项目名称]')
   .description('初始化一个项目')
   .action(() => {
     require('../src/byvue/commands/init')

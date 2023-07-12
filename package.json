@@ -17,6 +17,7 @@
   "dependencies": {
     "cli-table": "^0.3.11",
     "commander": "^11.0.0",
+    "cross-spawn": "^7.0.3",
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.2.0",
     "ora": "^5.1.0"
